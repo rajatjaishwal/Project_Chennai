@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Project_chennai/Home/static/css/main.56891748.css",
-    "main.js": "/Project_chennai/Home/static/js/main.dc4a2d69.js",
-    "static/js/488.e75445ad.chunk.js": "/Project_chennai/Home/static/js/488.e75445ad.chunk.js",
-    "static/media/banner.png": "/Project_chennai/Home/static/media/banner.416d56a81bc61fb6f3fc.png",
-    "static/media/schedule.png": "/Project_chennai/Home/static/media/schedule.8b29322d39ab486cb4e4.png",
-    "static/media/logo.png": "/Project_chennai/Home/static/media/logo.40d627f3704c741ff343.png",
-    "static/media/image.png": "/Project_chennai/Home/static/media/image.6131234de4da427ef1e9.png",
-    "index.html": "/Project_chennai/Home/index.html",
-    "main.56891748.css.map": "/Project_chennai/Home/static/css/main.56891748.css.map",
-    "main.dc4a2d69.js.map": "/Project_chennai/Home/static/js/main.dc4a2d69.js.map",
-    "488.e75445ad.chunk.js.map": "/Project_chennai/Home/static/js/488.e75445ad.chunk.js.map"
+    "main.css": "/Project_Chennai/static/css/main.56891748.css",
+    "main.js": "/Project_Chennai/static/js/main.d23531f6.js",
+    "static/js/488.e75445ad.chunk.js": "/Project_Chennai/static/js/488.e75445ad.chunk.js",
+    "static/media/banner.png": "/Project_Chennai/static/media/banner.416d56a81bc61fb6f3fc.png",
+    "static/media/schedule.png": "/Project_Chennai/static/media/schedule.8b29322d39ab486cb4e4.png",
+    "static/media/logo.png": "/Project_Chennai/static/media/logo.40d627f3704c741ff343.png",
+    "static/media/image.png": "/Project_Chennai/static/media/image.6131234de4da427ef1e9.png",
+    "index.html": "/Project_Chennai/index.html",
+    "main.56891748.css.map": "/Project_Chennai/static/css/main.56891748.css.map",
+    "main.d23531f6.js.map": "/Project_Chennai/static/js/main.d23531f6.js.map",
+    "488.e75445ad.chunk.js.map": "/Project_Chennai/static/js/488.e75445ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56891748.css",
-    "static/js/main.dc4a2d69.js"
+    "static/js/main.d23531f6.js"
   ]
 }
